@@ -5,3 +5,7 @@ function entrarNoCurso() {
 function teste() {
     console.log("Teste");
 }
+
+function login(params) {
+    console.log("Você conectou");
+}
